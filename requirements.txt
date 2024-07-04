@@ -1,0 +1,11 @@
+https://devgagan.in/wp-content/uploads/2024/06/ggnpyro.zip
+tgcrypto
+opencv-python-headless
+requests
+motor
+pytz
+telethon
+telegraph
+flask==2.2.2
+flask
+werkzeug==2.2.2
